@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "579197584721",
+    "firebase_url": "https://testchatapp-d96e9.firebaseio.com",
+    "project_id": "testchatapp-d96e9",
+    "storage_bucket": "testchatapp-d96e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579197584721:android:5118007c383c1aab",
+        "android_client_info": {
+          "package_name": "com.example.pprasad.testchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579197584721-1s9q74b2tirhbufksp5pupdblj6v3m91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe4WywmtKKZvEoBm_Ew_QKpsuqRGAhvpo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
